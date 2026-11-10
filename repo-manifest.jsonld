@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Devlight/NavigationTabBar/commit/bd5d779548a002af24daf8c8a2b0cf0ee91531e4",
       "git:hexsha": "bd5d779548a002af24daf8c8a2b0cf0ee91531e4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Devlight/NavigationTabBar/commit/2ffb5c05976373476f44f8d9df5f6919a4da4b28",
